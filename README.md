@@ -12,4 +12,4 @@ Link for the Owlyshield Dataset : https://drive.google.com/file/d/1O8ffvabl_Ov_J
 
 Link for the DTAAT paper github : https://github.com/Yu-Lingrui/DTAAD
 
-Link for the CALF paper on which our idea is based on : https://github.com/Hank0626/CALF
+Link for the CALF paper on which our idea is based upon : https://github.com/Hank0626/CALF
