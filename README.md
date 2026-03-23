@@ -4,11 +4,11 @@
 Dataset and Code for the CRAFT Paper accepted at IFIP Sec 2026
 
 
-We take the original preprocessing script from the code for the DTAAD^1 paper and add our owlyshield specific code over it. 
+We take the original preprocessing script from the code for the DTAAD paper and add our owlyshield specific code over it. 
 
 
 
 
 
-
+Link for the DTAAT paper github : https://github.com/Yu-Lingrui/DTAAD
 
